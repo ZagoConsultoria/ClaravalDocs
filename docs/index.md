@@ -6,8 +6,8 @@ Plataforma de gestão escolar da **Claraval Consultoria**, que forma gestores de
 
 | Repositório | Stack | Descrição |
 |-------------|-------|-----------|
-| [claraval-front](https://github.com/ZagoConsultoria/claraval-front) | Next.js 16 + React 19 + TypeScript + Tailwind CSS v4 | Frontend da plataforma |
-| [claraval-back](https://github.com/ZagoConsultoria/claraval-back) | Spring Boot 3.5 + Java 17 + PostgreSQL + Flyway | Backend API REST |
+| [ClaravalAppWeb](https://github.com/ZagoConsultoria/ClaravalAppWeb) | Next.js 16 + React 19 + TypeScript + Tailwind CSS v4 | Frontend da plataforma |
+| [ClaravalAppApi](https://github.com/ZagoConsultoria/ClaravalAppApi) | Spring Boot 3.5 + Java 17 + PostgreSQL + Flyway | Backend API REST |
 
 ## Módulos da Plataforma
 
