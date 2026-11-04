@@ -1,7 +1,7 @@
 site_name: Claraval Docs
 
-repo_name: "ZagoConsultoria/claraval-docs"
-repo_url: "https://github.com/ZagoConsultoria/claraval-docs"
+repo_name: "ZagoConsultoria/ClaravalDocs"
+repo_url: "https://github.com/ZagoConsultoria/ClaravalDocs"
 
 theme:
   name: material
