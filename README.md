@@ -30,6 +30,10 @@ prototipos/        protótipos HTML
 mkdocs.yml         configuração do site
 ```
 
+## Pré-requisitos
+
+- **Python** (versão não fixada: defina `requires-python` ou `.python-version`)
+
 ## Começando
 
 ### Rodar localmente
@@ -40,6 +44,10 @@ pip install -r requirements.txt
 mkdocs serve        # http://127.0.0.1:8000
 mkdocs build        # gera o site em site/
 ```
+
+## Testes
+
+Este repositório ainda não tem testes automatizados. Antes de mesclar uma mudança, valide manualmente e descreva no Pull Request como foi testado.
 
 ## Contribuindo
 
